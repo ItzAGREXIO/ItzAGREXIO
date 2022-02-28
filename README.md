@@ -39,8 +39,8 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzagrexio&show_icons=true&locale=en&layout=compact" alt="itzagrexio" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzagrexio&show_icons=true&locale=en&layout=compact" alt="itzagrexio" /></p>
+ -->
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzagrexio&show_icons=true&locale=en" alt="itzagrexio" /></p>
