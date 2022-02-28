@@ -20,11 +20,14 @@
 
 <br>
 
+# Discord
+[![Discord](https://discord.com/api/guilds/946308780629557289/widget.png?style=banner2)](https://discord.gg/xHde7g93Yh)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itzagrexio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzagrexio" height="30" width="40" /></a>
 <a href="https://instagram.com/itzagrexio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzagrexio" height="30" width="40" /></a>
-<a href="https://discord.gg/pAg7cfDmPa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pAg7cfDmPa" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/pAg7cfDmPa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pAg7cfDmPa" height="30" width="40" /></a> -->
 </p>
 
 
