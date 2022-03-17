@@ -45,12 +45,13 @@
  -->
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzagrexio&show_icons=true&locale=en" alt="itzagrexio" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzagrexio&show_icons=true&hide_border=true&theme=dark&locale=en" alt="itzagrexio" /></p> -->
 
+![Stats](https://github-readme-stats.vercel.app/api?username=itzagrexio&show_icons=true&hide_border=true&theme=dark&locale=en)
+    
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=itzagrexio&theme=dark&layout=compact&langs_count=6)
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzagrexio&" alt="itzagrexio" /></p>
+![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=itzagrexio&theme=dark)
 
 <!-- 
 <br>
