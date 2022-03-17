@@ -20,6 +20,8 @@
 
 <br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/885919052600590406)](https://discord.com/users/885919052600590406)
+
 # Discord
 [![Discord](https://discord.com/api/guilds/946308780629557289/widget.png?style=banner2)](https://discord.gg/xHde7g93Yh)
 
