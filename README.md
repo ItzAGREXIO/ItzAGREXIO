@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AGREXIO</h1>
-<h3 align="center"> | 💻Fivem and Discord BOT Dev🌟 |</h3>
+<h3 align="center"> | 💻Fivem Dev🌟 |</h3>
 
 <br>
 
@@ -13,8 +13,6 @@
 
 
 - 🌱 I’m currently learning **Web Development, 3d work for games and other programming languages.**
-
-- 📫 How to reach me: You can contact me on my discord **AGREXIO#7530**
 
 - ⚡ Fun fact :- I love Playing games and making stuff for games
 
@@ -59,12 +57,13 @@
 
 <br/>
 
+
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=itzagrexio&show_icons=true&hide_border=true&tbg_color=0D1117&locale=en)
     
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=itzagrexio&theme=dark&layout=compact&langs_count=6)
 
 ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=itzagrexio&bg_color=0D1117) -->
-
+## [![AGREXIO's github activity graph](https://activity-graph.herokuapp.com/graph?username=ItzAGREXIO&theme=react-dark)](https://github.com/ItzAGREXIO/github-readme-activity-graph)
 <!-- 
 <br>
 <h3>Trophies :-</h3>
